@@ -22,7 +22,3 @@ app.listen(port, function() {
 })
 
 //why fail to serialize user if logging in via third party
-
-//refactor procedural to object oriented
-//orm propagating validation
-//express authentication and login
