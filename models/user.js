@@ -1,5 +1,5 @@
 let mongoose = require('mongoose')
-mongoose.connect('localhost:27017/yuktest')
+mongoose.connect('localhost:27017/halhalhal')
 
 let userSchema = new mongoose.Schema({
   local:{
